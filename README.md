@@ -3,7 +3,9 @@
 
 ## Introduction
 
-There're two main files that I wrote for my chatbot. Both of them are under the folder sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/
+There're two main files that I wrote for my chatbot. Both of them are under the folder 
+
+	sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/
 
 1. GuoPingController.java
     
