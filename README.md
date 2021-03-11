@@ -14,11 +14,11 @@ sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/
 
 	1. GuoPingController.java
 
-	    The file for all the text, pushback data handling
+	    The file for all the text, postback data handling
 
 	2. ProfileSupplier.java
 
-	    The code for generating a flex profile page
+	    The code for generating a flex message for my profile page
 	    
 ## 3. Rich Menu
 	    
