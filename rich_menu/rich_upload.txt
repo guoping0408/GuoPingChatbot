@@ -1,0 +1,4 @@
+curl -v --http1.1 -X POST https://api-data.line.me/v2/bot/richmenu/richmenu-85cf6c26740984b63ef735ea7d62b617/content \
+-H "Authorization: Bearer h7a74dLi81MFAi4sc3apGj31tIMEHPz4q8oLWPKYDqGJVZ4dlruZLOYA3cCwyqYBAya5FxGh1Dkc0L6JzBMssMIKng1lhb/pJAaTXiEPVUMcLP6DscQAPt0jPDy7CJ/gN0VXEcK8/h0EhMRoh96PewdB04t89/1O/w1cDnyilFU=" \
+-H "Content-Type: image/jpeg" \
+-T rich_menu2.jpg
