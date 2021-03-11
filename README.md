@@ -5,15 +5,16 @@
 
 There're two main files that I wrote for my chatbot. Both of them are under the folder 
 
-	sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/
+sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/
 
-1. GuoPingController.java
-    
-    The file for all the text, pushback data handling
+	1. GuoPingController.java
 
-2. ProfileSupplier.java
+	    The file for all the text, pushback data handling
 
-    The code for generating a flex profile page
+	2. ProfileSupplier.java
+
+	    The code for generating a flex profile page
+	    
     
 The QR code for the Guo Ping chatBot is:
 
