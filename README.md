@@ -1,4 +1,4 @@
-# LINE Guo Ping ChatBot
+# Guo Ping ChatBot
 
 
 ## Introduction
