@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.23">
+<file name="/Users/Stephen/Desktop/LINE/line-bot-sdk-java/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/ExampleFlexMessageSupplier.java">
+</file>
+<file name="/Users/Stephen/Desktop/LINE/line-bot-sdk-java/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/KitchenSinkApplication.java">
+</file>
+<file name="/Users/Stephen/Desktop/LINE/line-bot-sdk-java/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/KitchenSinkController.java">
+</file>
+<file name="/Users/Stephen/Desktop/LINE/line-bot-sdk-java/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/KitchenSinkWebMvcConfigurer.java">
+</file>
+<file name="/Users/Stephen/Desktop/LINE/line-bot-sdk-java/sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/MessageWithQuickReplySupplier.java">
+</file>
+</checkstyle>
