@@ -15,6 +15,8 @@ sample-spring-boot-kitchensink/src/main/java/com/example/bot/spring/
 
 	    The code for generating a flex profile page
 	    
+The folder rich_menu contains the files that enable me to link a rich_menu with my chatBot
+	    
     
 The QR code for the Guo Ping chatBot is:
 
